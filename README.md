@@ -1,7 +1,8 @@
 # SalesForce Scala Rest Demo
 
 An updated version of https://github.com/rajdeepd/force-rest-scala with a more complete build setup 
-that uses standard dependencies.
+that uses standard dependencies. This code goes with [
+Integrating With Salesforce Using Scala](https://developer.salesforce.com/blogs/developer-relations/2016/06/integrating-salesforce-using-scala.html), written By Rajdeep Dua.
 
 Before running, set the following environment variables:
 
