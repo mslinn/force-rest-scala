@@ -1,8 +1,0 @@
-force {
-	UserName     = ""
-	PassWord     = ""
-	LoginURL     = ""
-	GrantService = ""
-	ClientID     = ""
-	ClientSecret = ""
-}
